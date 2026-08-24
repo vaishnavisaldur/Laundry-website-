@@ -1,0 +1,32 @@
+>>Project name: Laundry Mart login page.
+    >Left Section: Displays a laundry-related image.
+    >Right Section: Contains the login form with email and password fields along with a login button.
+
+>>Features:
+    >Centered login container
+    >Laundry-themed image section
+    >User-friendly login form
+    >Styled input fields and button
+    >Hover effect on the login button
+    >Clean and modern UI design
+
+>>Technologies used:
+    >HTML5
+    >CSS3
+    >Flexbox
+
+>>How to run:
+    >Download or clone this repository.
+    >Ensure the following files are in the same folder: (main)
+        -index.html
+        -style.css
+        -laundry.png
+    >Open index.html in any web browser.
+    >The Laundry Mart Login Page will be displayed.
+
+>>Outpt:
+    >Laundry image on the left side
+    >Login form on the right side
+    >Email and Password fields
+    >Login button with hover effect
+    
